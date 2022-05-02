@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Documentação
+title: FAQ
 nav_order: 1
 permalink: /
 ---
 
-# Documentação
+# FAQ
