@@ -7,4 +7,3 @@ permalink: /
 
 # Documentação
 
-Hello World
