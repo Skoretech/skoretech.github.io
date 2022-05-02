@@ -6,3 +6,5 @@ permalink: docs/faq
 ---
 
 # FAQ
+
+Errors comuns encontrados
