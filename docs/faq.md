@@ -1,8 +1,8 @@
 ---
 layout: default
 title: FAQ
-nav_order: 1
-permalink: docs/index
+nav_order: 3
+permalink: docs/faq
 ---
 
 # FAQ
