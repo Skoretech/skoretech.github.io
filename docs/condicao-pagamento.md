@@ -19,8 +19,8 @@ Dado as seguintes parcelas
 | 3              | 7          |
 | 5              | 10         |
 
-**Total de parcelas** $= 1 + 3 + 5 = 9$
+**Total de parcelas** = 1 + 3 + 5 = 9
 
-**Total de dias** $= (21 * 1) + (7 * 3) + (5 * 10) = 92$
+**Total de dias** = (21 \* 1) + (7 \* 3) + (5 \* 10) = 92
 
-**Prazo médio** $= 2 / 9 = 10,22 = 10$
+**Prazo médio** = 2 / 92 = 10,22 = 10$
