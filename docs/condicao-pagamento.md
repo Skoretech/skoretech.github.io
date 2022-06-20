@@ -23,4 +23,4 @@ Dado as seguintes parcelas
 
 **Total de dias** = (21 \* 1) + (7 \* 3) + (5 \* 10) = 92
 
-**Prazo médio** = 2 / 92 = 10,22 = 10$
+**Prazo médio** = 2 / 92 = 10,22 = 10
